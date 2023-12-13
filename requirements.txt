@@ -2,4 +2,4 @@ streamlit
 opencv-python
 numpy
 Pillow
-pyopengl
+PyOpenGL==3.1.5
